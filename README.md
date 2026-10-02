@@ -9,8 +9,6 @@
 [![Status](https://img.shields.io/badge/status-Active%20Development-brightgreen.svg)]()
 [![Versions](https://img.shields.io/badge/versions-2-blue.svg)]()
 
-> **Two complete gym management solutions: CLI+MySQL for learning, GUI+SQLite for production**
-
 ---
 
 ## 📋 Table of Contents
@@ -530,11 +528,9 @@ This project is licensed under the **MIT License** - see [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Mithun**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@gmail.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Portfolio: [yoursite.com](https://yoursite.com) (optional)
-
+- GitHub: [@Mithun0017](https://github.com/Mithun0017)
+- Email: mithun200617@gmail.com
+- LinkedIn: [Mithun0017](https://linkedin.com/in/Mithun0017)
 ---
 
 ## ⭐ Show Support
@@ -602,43 +598,6 @@ Supported Platforms: Windows, macOS, Linux
 
 ---
 
-## 🎓 Learning Value
-
-This repository demonstrates:
-
-### Software Development Skills
-✅ Full-stack application development
-✅ Database design & optimization
-✅ GUI development with modern frameworks
-✅ Data visualization techniques
-✅ Version control & collaboration
-
-### Programming Concepts
-✅ CRUD operations
-✅ Object-oriented programming
-✅ MVC architecture
-✅ Design patterns
-✅ Data normalization
-
-### Tools & Technologies
-✅ Python (CLI & GUI)
-✅ MySQL & SQLite
-✅ PyQt5 framework
-✅ Matplotlib charting
-✅ Git version control
-
----
-
-## 🎯 Perfect For
-
-- 🎓 **Students** - Learning full-stack development
-- 💼 **Beginners** - Starting with Python/databases
-- 📚 **Educators** - Teaching CRUD operations
-- 💻 **Developers** - Portfolio showcase
-- 🏋️ **Gym Owners** - Managing operations
-
----
-
 <div align="center">
 
 ### 🚀 Ready to Get Started?
@@ -651,14 +610,8 @@ This repository demonstrates:
 
 Made with ❤️ for the Python community
 
-[Fork](../../fork) | [Star](../../) | [Watch](../../subscription)
-
 **Happy Coding!** 💻✨
 
 ---
-
-Last Updated: December 2024  
-Status: ✅ Active Development  
-Version: 1.0 (CLI) + 2.0 Advanced (GUI)
 
 </div>
