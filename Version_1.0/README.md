@@ -326,9 +326,6 @@ The current version implements the core gym-member CRUD workflow using Python an
 
 **Mithun**
 
-B.Tech Computer Science & Engineering  
-SRM Institute of Science and Technology
-
 ---
 
 ## ⭐ Support
