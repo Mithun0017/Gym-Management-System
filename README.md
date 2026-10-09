@@ -10,13 +10,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Quick Comparison](#quick-comparison)
-
----
-
 ## 🆚 Quick Comparison
 
 | Feature | V1 (CLI) | V2 (GUI) |
