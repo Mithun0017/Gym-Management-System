@@ -14,7 +14,6 @@
 
 - [Overview](#overview)
 - [Quick Comparison](#quick-comparison)
-- [License](#license)
 
 ---
 
