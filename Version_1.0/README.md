@@ -333,7 +333,3 @@ The current version implements the core gym-member CRUD workflow using Python an
 If you found this project useful, consider giving the repository a ⭐ on GitHub.
 
 ---
-
-### 📄 License
-
-This project is intended for **educational and academic purposes**.
